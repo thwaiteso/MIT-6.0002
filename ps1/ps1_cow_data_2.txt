@@ -1,0 +1,12 @@
+Miss Moo-dy,3
+Milkshake,4
+Lotus,10
+Miss Bella,2
+Horns,9
+Betsy,5
+Rose,3
+Dottie,6
+Extra1,3
+Extra2,5
+Extra3,9
+Extra4,1
